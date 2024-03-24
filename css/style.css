@@ -122,19 +122,21 @@ background-color: #2e2f42;
   color: #2e2f42;
 }
 
-.third-section {
-  background: #f4f4fd;
-}
-
 .second-header {
-font-weight: 700;
+  text-transform: capitalize;
+  font-weight: 700;
   font-size: 36px;
   line-height: 111%;
   letter-spacing: 0.02em;
   text-align: center;
-  text-transform: capitalize;
   color: #2e2f42;
 }
+
+.third-section {
+  background: #f4f4fd;
+}
+
+
 
 .second-h-list {
   background-color: #FFFFFF
@@ -168,11 +170,18 @@ font-weight: 700;
   text-transform: capitalize;
 }
 .our-port-app {
-  font-weight: 500;
+font-weight: 500;
   font-size: 20px;
   line-height: 120%;
   letter-spacing: 0.02em;
   color: #2e2f42;
+}
+.our-portfolio-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
 
 .our-portfolio-menu 
@@ -181,13 +190,7 @@ font-weight: 700;
 
 .our-portfolio-image 
 
-.our-portfolio-text {
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 150%;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
+
 
 /* -----------------MAIN------------------- */
 
@@ -208,7 +211,7 @@ font-weight: 700;
     color: #4d5ae5;
 }
 
-.studio-name  {
+.span-studio {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
     font-size: 18px;
@@ -218,7 +221,7 @@ font-weight: 700;
     color: #f4f4fd;
 }
 
-.studio-name-studio {
+.studio-name  {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
     font-size: 18px;
@@ -226,7 +229,8 @@ font-weight: 700;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #f4f4fd;
-}   
+}
+  
 .repeat-text-ones {
   color: #F4F4FD;
 } 
