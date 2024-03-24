@@ -4,17 +4,6 @@
   background-color: #FFFFFF;
 }
 
-/* ----------------Repeated------------------- */
-.repeat-text {
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 150%;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
-
-/* ----------------Repeated------------------- */
-
 /* -----------------HEADER------------------- */
 .header-name {
   font-weight: 700;
@@ -120,6 +109,14 @@ cursor: pointer;
   background-color: #404BBF
 }
 
+.repeat-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
 .our-tactic {
   font-weight: 500;
   font-size: 20px;
@@ -128,20 +125,21 @@ cursor: pointer;
   color: #2e2f42;
 }
 
+.third-section {
+  background: #f4f4fd;
+}
+
 .second-header {
-  font-weight: 700;
+font-weight: 700;
   font-size: 36px;
   line-height: 111%;
   letter-spacing: 0.02em;
-  text-transform: capitalize;
   text-align: center;
   color: #2e2f42;
-  background-color: #f4f4fd;
 }
 .second-header-menu {
   background-color: #FFFFFF;
 }
-
 .name-bodies {
   font-weight: 500;
   font-size: 20px;
