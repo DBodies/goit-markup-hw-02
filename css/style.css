@@ -95,9 +95,9 @@ background-color: #2e2f42;
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.04em;
-  color: #fff;
   background-color: #4D5AE5;
-cursor: pointer;    
+  color: #fff;
+  cursor: pointer;    
 }
 .main-header-btn:hover {     
   background-color: #404BBF
@@ -134,20 +134,19 @@ font-weight: 700;
   text-align: center;
   color: #2e2f42;
 }
-.second-header-menu {
-  background-color: #FFFFFF;
-}
+
 .second-h-list {
   background-color: #FFFFFF
+
 }
 
 .name-bodies {
+  text-transform: capitalize;
   font-weight: 500;
   font-size: 20px;
   line-height: 120%;
   letter-spacing: 0.02em;
   color: #2e2f42;
-  text-transform: capitalize;
 }
 
 .bodies-do {
@@ -175,9 +174,10 @@ font-weight: 700;
 .our-portfolio-image 
 
 .our-portfolio-haves {
-  font-weight: 500;
+  
+font-weight: 500;
   font-size: 20px;
-  line-height: 1.2;
+  line-height: 120%;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
