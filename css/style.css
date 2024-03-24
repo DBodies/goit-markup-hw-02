@@ -1,5 +1,7 @@
 .body-css {
   font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #FFFFFF;
 }
 
 /* ----------------Repeated------------------- */
@@ -8,7 +10,7 @@
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.02em;
-  color: #f4f4fd;
+  color: #434455;
 }
 
 /* ----------------Repeated------------------- */
@@ -68,7 +70,7 @@
 /* -----------------HEADER------------------- */
 
 /* -----------------MAIN------------------- */
-.main-h {
+.main-header {
   font-weight: 700;
   font-size: 56px;
   line-height: 107%;
@@ -79,15 +81,20 @@
 }
 
 .main-h-btn {
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.04em;
   color: #fff;
-  border-radius: 4px;
-  padding: 16px 32px;
-  width: 169px;
-  height: 56px box-shadow
+  cursor: pointer;
+background-color: #4D5AE5
+}
+.main-h-btn:hover {     
+  background-color: #404BBF
+}
+.main-h-btn:active {
+  background-color: #404BBF
 }
 
 .our-tactic {
@@ -106,7 +113,10 @@
   text-transform: capitalize;
   text-align: center;
   color: #2e2f42;
-  background: #f4f4fd;
+  background-color: #f4f4fd;
+}
+.second-h-menu {
+  background-color: #FFFFFF;
 }
 
 .name-bodies {
@@ -132,6 +142,7 @@
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 
 .our-portfolio-menu {}
@@ -185,6 +196,9 @@
   line-height: 117%;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  color: #f4f4fd;
+}
+.header-studio-studio {
   color: #f4f4fd;
 }
 
