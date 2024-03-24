@@ -96,8 +96,7 @@ background-color: #2e2f42;
   line-height: 150%;
   letter-spacing: 0.04em;
   color: #fff;
-background-color: #4D5AE5;
-cursor: pointer;
+cursor: pointer;    
 }
 .main-header-btn:hover {     
   background-color: #404BBF
@@ -106,6 +105,9 @@ cursor: pointer;
   background-color: #404BBF
 }
 .main-header-btn:focus:hover { 
+  background-color: #404BBF
+}
+.main-header-btn:focus:active {
   background-color: #404BBF
 }
 
