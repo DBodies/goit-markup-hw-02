@@ -145,14 +145,11 @@ cursor: pointer;
   text-transform: capitalize;
 }
 
-.our-portfolio-menu {}
+.our-portfolio-menu 
 
-.our-portfolio-list {}
+.our-portfolio-list 
 
-.our-portfolio-image {
-  width: 360px;
-  height: 300px;
-}
+.our-portfolio-image 
 
 .our-portfolio-haves {
   font-weight: 500;
@@ -180,27 +177,25 @@ cursor: pointer;
 
 /* ----------------------FOOTER------------------- */
 .web-name {
-  font-family: "Raleway", sans-serif;
   font-weight: 700;
-  font-size: 18px;
-  line-height: 117%;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-  color: #4d5ae5;
+    font-size: 18px;
+    line-height: 117%;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
 }
 
-.studio-name {
+.studio-name 
+
+.studio-name-studio {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
-  font-size: 18px;
-  line-height: 117%;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-  color: #f4f4fd;
-}
-.header-studio-studio {
-  color: #f4f4fd;
-}
+    font-size: 18px;
+    line-height: 117%;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #f4f4fd;
+}     
 
 .footer-menu {
   background-color: #2e2f42;
