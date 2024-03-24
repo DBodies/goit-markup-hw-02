@@ -26,12 +26,22 @@
 }
 
 .web-name {
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 117%;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
+}
+.span-studio {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+    font-size: 18px;
+    line-height: 117%;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #2e2f42;
 }
 
 .header-studio-name {
@@ -50,6 +60,12 @@
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
+.header-list:hover{
+  color: #404bbf;
+}
+.header-list:active{
+  color: #404bbf;
+}
 
 .adres-list {
   font-weight: 400;
@@ -57,6 +73,7 @@
   line-height: 150%;
   letter-spacing: 0.02em;
   color: #434455;
+  font-style: normal;
 }
 
 .adres-name-list {
@@ -65,6 +82,7 @@
   line-height: 150%;
   letter-spacing: 0.02em;
   color: #434455;
+  font-style: normal;
 }
 
 /* -----------------HEADER------------------- */
@@ -105,7 +123,7 @@ cursor: pointer;
   color: #2e2f42;
 }
 
-.second-h {
+.second-header {
   font-weight: 700;
   font-size: 36px;
   line-height: 111%;
@@ -115,7 +133,7 @@ cursor: pointer;
   color: #2e2f42;
   background-color: #f4f4fd;
 }
-.second-h-menu {
+.second-header-menu {
   background-color: #FFFFFF;
 }
 
@@ -154,7 +172,7 @@ cursor: pointer;
 .our-portfolio-haves {
   font-weight: 500;
   font-size: 20px;
-  line-height: 120%;
+  line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
@@ -205,7 +223,7 @@ cursor: pointer;
     text-transform: uppercase;
     color: #f4f4fd;
 }   
-.repeat-text {
+.repeat-text-ones {
   color: #F4F4FD;
 } 
 
