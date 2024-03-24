@@ -107,6 +107,12 @@ background-color: #2e2f42;
   color: #434455;
 }
 
+.we-disable {
+  visibility: hidden;
+}
+
+    
+
 .our-tactic {
   font-weight: 500;
   font-size: 20px;
