@@ -52,6 +52,11 @@
 
 .header-contact-item 
 
+.header-contacts-link:hover,
+.header-contacts-link:focus {
+  color: #404bbf;
+}
+
 .header-contacts-link {
   font-size: 16px;
   line-height: 1.5;
@@ -59,10 +64,7 @@
   color: #434455;
 }
 
-.header-contacts-link:hover,
-.header-contacts-link:focus {
-  color: #404bbf;
-}
+
 
 /* -----------------HEADER------------------- */
 
