@@ -101,13 +101,10 @@ cursor: pointer;
 .main-header-btn:hover {     
   background-color: #404BBF
 }
-.main-header-btn:active {
-  background-color: #404BBF
-}
 .main-header-btn:focus:hover { 
   background-color: #404BBF
 }
-.main-header-btn:focus:active {
+.main-header-btn:focus {
   background-color: #404BBF
 }
 
