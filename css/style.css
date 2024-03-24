@@ -88,6 +88,9 @@
 /* -----------------HEADER------------------- */
 
 /* -----------------MAIN------------------- */
+.first-section-header {
+background-color: #2e2f42;
+}
 .main-header {
   font-weight: 700;
   font-size: 56px;
@@ -95,10 +98,9 @@
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
-  background-color: #2e2f42;
-}
+  }
 
-.main-h-btn {
+.main-header-btn {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
@@ -108,10 +110,13 @@
 background-color: #4D5AE5;
 cursor: pointer;
 }
-.main-h-btn:hover {     
+.main-header-btn:hover {     
   background-color: #404BBF
 }
-.main-h-btn:active {
+.main-header-btn:active {
+  background-color: #404BBF
+}
+.main-header-btn:focus:hover { 
   background-color: #404BBF
 }
 
